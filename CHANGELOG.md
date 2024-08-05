@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.39.2](https://github.com/Koenkk/zigbee2mqtt/compare/1.39.1...1.39.2) (2024-08-05)
+
+
+### Bug Fixes
+
+* Add min/max for some adapter options ([#23503](https://github.com/Koenkk/zigbee2mqtt/issues/23503)) ([5b610af](https://github.com/Koenkk/zigbee2mqtt/commit/5b610afa8fbebc9158b08282914a7102b8619eb3))
+* Fix expose category ignored by HA discovery ([#23494](https://github.com/Koenkk/zigbee2mqtt/issues/23494)) ([3217332](https://github.com/Koenkk/zigbee2mqtt/commit/3217332e463194abd54154a8c7fc1d427220559f))
+* **ignore:** update dependencies ([#23508](https://github.com/Koenkk/zigbee2mqtt/issues/23508)) ([bd7dec0](https://github.com/Koenkk/zigbee2mqtt/commit/bd7dec0f11954491ac21d13a7225ff3ed549e856))
+* **ignore:** update zigbee-herdsman to 0.55.4 ([#23493](https://github.com/Koenkk/zigbee2mqtt/issues/23493)) ([a25ef81](https://github.com/Koenkk/zigbee2mqtt/commit/a25ef81cf4afe3aae4af621480bff74f3e7116a0))
+* **ignore:** update zigbee-herdsman-converters to 19.73.0 ([#23495](https://github.com/Koenkk/zigbee2mqtt/issues/23495)) ([2cb8a8f](https://github.com/Koenkk/zigbee2mqtt/commit/2cb8a8f5a5647b177a9dc3d0dc262bec406e26b1))
+* **ignore:** update zigbee-herdsman-converters to 19.73.1 ([#23527](https://github.com/Koenkk/zigbee2mqtt/issues/23527)) ([0092368](https://github.com/Koenkk/zigbee2mqtt/commit/00923685d29b7de994e92d7e0b2429288375504b))
+* Remove group from Home Assistant when removed ([#23492](https://github.com/Koenkk/zigbee2mqtt/issues/23492)) ([d0f5733](https://github.com/Koenkk/zigbee2mqtt/commit/d0f5733db37038f0f7602f43f45b55462d58a4be))
+
 ## [1.39.1](https://github.com/Koenkk/zigbee2mqtt/compare/1.39.0...1.39.1) (2024-08-01)
 
 
